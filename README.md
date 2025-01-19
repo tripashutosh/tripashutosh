@@ -4,7 +4,7 @@
   You are looking at the GitHub Profile of Ashutosh Tripathi
 </h1>
 
-## Introduction
+## About Me
 
 Hello, I am Ashutosh Tripathi, a PhD student at the  [High Energy Accelerator Research Organization (KEK)](https://www2.kek.jp/theory-center/theory/), where I conduct research in theoretical physics under the supervision of  [Prof. Jun Nishimura](https://inspirehep.net/authors/995559). My research focuses on non-perturbative phenomena in quantum field theory using numerical and analytical techniques. I hold an integrated BS-MS degree in Physics from the [Indian Institute of Science Education and Research (IISER), Mohali](https://www.iisermohali.ac.in).
 
@@ -27,6 +27,7 @@ Check out my publications on
 - **Whatsapp**: +91 9140428358
 - **Line ID**: ashu91404
 - **Office**: Office No. 217, KEK Theory Center, 1-1 Oho, Tsukuba, Ibaraki, Japan (305-0801)
+- **Personal Website**: In preparation...
 
 ## My Research Toolkit
 
@@ -36,15 +37,18 @@ Check out my publications on
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge)
 ![Wolfram](https://img.shields.io/badge/Wolfram-DC143C?style=for-the-badge)
+
+### Shells & Command Line Tools
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-000000?style=for-the-badge&logoColor=white)
+![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-555555?style=for-the-badge&logo=console&logoColor=white)
 
 #### IDEs
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-555555?style=for-the-badge&logo=console&logoColor=white)
 
 #### Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
