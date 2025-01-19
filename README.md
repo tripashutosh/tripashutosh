@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hello, I am Ashutosh Tripathi, a PhD student at the  [High Energy Accelerator Research Organization (KEK)](https://www2.kek.jp/theory-center/theory/), where I conduct research in theoretical physics under the supervision of  [Prof. Jun Nishimura](https://inspirehep.net/authors/995559). My research focuses on non-perturbative phenomena in quantum field theory using numerical and analytical techniques. I hold an integrated BS-MS degree in Physics from the [Indian Institute of Science Education and Research (IISER), Mohali](https://www.iisermohali.ac.in).
+Hello, I am Ashutosh Tripathi, a PhD student at the  [High Energy Accelerator Research Organization (KEK)](https://www2.kek.jp/theory-center/theory/), where I conduct research in theoretical physics under the supervision of  [Prof. Jun Nishimura](https://inspirehep.net/authors/995559). I hold an integrated BS-MS degree in Physics from the [Indian Institute of Science Education and Research (IISER), Mohali](https://www.iisermohali.ac.in). My research centers on the exploration of non-perturbative phenomena within quantum mechanics and field theory models, employing both numerical and analytical methodologies.
 
 
 ## Research Interests
