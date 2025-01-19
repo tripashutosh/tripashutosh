@@ -100,6 +100,14 @@ Check out my publications on
 ![Singularity](https://img.shields.io/badge/Singularity-2D2D2D?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+<!-- GitHub Stats -->
 
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tripashutosh&show_icons=true&theme=radical)](https://github.com/tripashutosh/github-readme-stats)
+
+<!-- Blank line or <br> tag forces the next image to appear below -->
+
+<!-- Top Languages -->
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tripashutosh&layout=compact&theme=radical)](https://github.com/tripashutosh/github-readme-stats)
 
 
