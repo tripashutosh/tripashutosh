@@ -13,15 +13,22 @@
 
 ## About Me
 
+## About Me
+
 Hello, I am **Ashutosh Tripathi**, a Postdoctoral Researcher at the
-[Asia Pacific Center for Theoretical Physics (APCTP), Pohang, South Korea](https://www.apctp.org/)
-working under the supervision of
+[Asia Pacific Center for Theoretical Physics (APCTP), Pohang, South Korea](https://www.apctp.org/),
+where I am working with
 [Dr. Hyun-Sik Jeong](https://sites.google.com/view/for-hyun-sik/home?authuser=0).
-I completed my PhD in Theoretical Physics at the High Energy Accelerator Research Organization
-(KEK, Japan) under the supervision of
+
+I completed my PhD in Theoretical Physics at the
+[High Energy Accelerator Research Organization (KEK, Japan)](https://www2.kek.jp/theory-center/theory/),
+mentored by
 [Prof. Jun Nishimura](https://inspirehep.net/authors/995559).
-Prior to that, I earned an integrated BS–MS degree in Physics from the
-[Indian Institute of Science Education and Research (IISER), Mohali](https://www.iisermohali.ac.in/).
+
+Earlier, I obtained an integrated BS–MS degree in Physics from the
+[Indian Institute of Science Education and Research (IISER), Mohali](https://www.iisermohali.ac.in/),
+where I carried out my Master’s thesis research under the guidance of [Dr. Anosh Joseph](https://inspirehep.net/authors/1049897).
+
 
 My research focuses on non-perturbative approaches to quantum field theory, lattice gauge theory,
 and matrix models motivated by string theory and quantum gravity. I work on both continuum and lattice
@@ -40,7 +47,7 @@ physics and modern AI to tackle open problems in high-energy theory and quantum 
 - Theoretical High-Energy Physics  
 - Lattice Gauge Theory / QCD  
 - Matrix Models (IKKT, BFSS)  
-- Quantum Simulations (HMC, CLM, generalized thimble methods)  
+- Quantum Simulations (HMC, CLM, GTM)  
 - Quantum Computing & Neural Networks  
 
 ---
@@ -55,11 +62,11 @@ Check out my publications on
 
 ## Connect With Me
 
-- **Official Email:** [tripashu@post.kek.jp](mailto:tripashu@post.kek.jp)  
+- **Official Email:** [tripashu@post.kek.jp](mailto:ashutosh.tripathi@apctp.org)  
 - **Gmail:** [tripathiashutosh9452@gmail.com](mailto:tripathiashutosh9452@gmail.com)  
 - **WhatsApp:** +91 9140428358  
 - **LINE ID:** ashu91404  
-- **Office:** Office No. 217, KEK Theory Center, 1-1 Oho, Tsukuba, Ibaraki, Japan (305-0801)  
+- **Office:** Office No. 534, Hogil Kim Memorial Building, POSTECH, 77 Cheongam-ro, Nam-gu, Pohang-si, Gyeongsangbuk-do, 37673, Korea 
 - **Personal Website:** In preparation...
 
 > *Tip:* For privacy, consider omitting phone/physical address on a public profile.
