@@ -13,8 +13,6 @@
 
 ## About Me
 
-## About Me
-
 Hello, I am **Ashutosh Tripathi**, a Postdoctoral Researcher at the
 [Asia Pacific Center for Theoretical Physics (APCTP), Pohang, South Korea](https://www.apctp.org/),
 where I am working with
