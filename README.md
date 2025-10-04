@@ -14,7 +14,7 @@
 ## About Me
 
 Hello, I am **Ashutosh Tripathi**, a Postdoctoral Researcher at the
-[Asia Pacific Center for Theoretical Physics (APCTP), Pohang, South Korea](https://www.apctp.org/),
+[Asia Pacific Center for Theoretical Physics (APCTP, Korea](https://www.apctp.org/),
 where I am working with
 [Dr. Hyun-Sik Jeong](https://sites.google.com/view/for-hyun-sik/home?authuser=0).
 
@@ -24,7 +24,7 @@ mentored by
 [Prof. Jun Nishimura](https://inspirehep.net/authors/995559).
 
 Earlier, I obtained an integrated BS–MS degree in Physics from the
-[Indian Institute of Science Education and Research (IISER), Mohali](https://www.iisermohali.ac.in/),
+[Indian Institute of Science Education and Research (IISER Mohali, India](https://www.iisermohali.ac.in/),
 where I carried out my Master’s thesis research under the guidance of [Dr. Anosh Joseph](https://inspirehep.net/authors/1049897).
 
 
