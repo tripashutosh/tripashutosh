@@ -40,7 +40,7 @@ Check out my publications on
 
 ## Connect With Me
 
-- **Official Email:** [tripashu@post.kek.jp](mailto:ashutosh.tripathi@apctp.org)  
+- **Official Email:** [ashutosh.tripathi@apctp.org](mailto:ashutosh.tripathi@apctp.org)  
 - **Gmail:** [tripathiashutosh9452@gmail.com](mailto:tripathiashutosh9452@gmail.com)  
 - **WhatsApp:** +91 9140428358  
 - **LINE ID:** ashu91404  
