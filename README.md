@@ -45,9 +45,7 @@ Check out my publications on
 - **WhatsApp:** +91 9140428358  
 - **LINE ID:** ashu91404  
 - **Office:** Office No. 534, Hogil Kim Memorial Building, POSTECH, 77 Cheongam-ro, Nam-gu, Pohang-si, Gyeongsangbuk-do, 37673, Korea 
-- **Personal Website:** In preparation...
-
-> *Tip:* For privacy, consider omitting phone/physical address on a public profile.
+- **Personal Website:** [https://tripashutosh.github.io/](https://tripashutosh.github.io/) 
 
 ---
 
